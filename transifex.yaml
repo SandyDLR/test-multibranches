@@ -3,4 +3,4 @@ filters:
     file_format: HTML
     source_language: en
     source_files_expression: 'source/<file>.html'
-    translation_files_expression: 'translations/example-<lang>.html'
+    translation_files_expression: 'translations/<file>-<lang>.html'
