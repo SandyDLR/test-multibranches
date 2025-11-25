@@ -1,5 +1,5 @@
 {
-  "Unicode_escape_sequence": "τοπικοποιηση",
+  "Unicode_escape_sequence": "τοπικοποιηση test",
   "double_escaped_unicode_sequence": "\\u03C4\\u03BF\\u03C0\\u03B9\\u03BA\\u03BF\\u03C0\\u03BF\\u03B9\\u03B7\\u03C3\\u03B7",
   "escaped_double_quotes": "eso está bien",
   "escaped_baskslash": "/",
