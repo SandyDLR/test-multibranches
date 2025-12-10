@@ -8,5 +8,6 @@
   "newline": "a\nb",
   "carriage_return": "a\rb",
   "horizontal_tab": "a\tb",
-  "unescaped_backslash": "a/b update"
+  "unescaped_backslash": "a/b update",
+  "otherstring": "blablabla"
 }
