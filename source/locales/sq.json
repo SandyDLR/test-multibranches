@@ -8,6 +8,5 @@
   "newline": "a\nb",
   "carriage_return": "a\rb",
   "horizontal_tab": "a\tb",
-  "sdsunescaped_backslash": "a/b update",
-  "nescaped_backslash": "a/sadsdasdb update"
+  "sdsunescaped_backslash": "a/b update"
 }
