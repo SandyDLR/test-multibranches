@@ -1,4 +1,11 @@
-blablabla
-update
-sdsadsadas
-sdsadsadas
+Welcome back!
+Manage your account information and preferences.
+
+User profile
+Full name
+Email address
+User role
+Status
+
+Active
+Inactive
