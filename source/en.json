@@ -1,0 +1,13 @@
+{
+  "heading": "Welcome back!",
+  "subtitle": "You are logged in as an administrator.",
+  "labels": {
+    "name": "Full name",
+    "email": "Email address",
+    "role": "User role"
+  },
+  "actions": {
+    "save": "Save changes",
+    "cancel": "Cancel"
+  }
+}
