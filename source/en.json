@@ -8,6 +8,7 @@
   },
   "actions": {
     "save": "Save changes",
-    "cancel": "Cancel"
+    "cancel": "Cancel",
+    "cancel-confirmation": "are you sure?"
   }
 }
