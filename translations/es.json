@@ -1,3 +1,14 @@
 {
-  "heading": "¡Bienvenido de vuelta-update!"
+  "heading": "¡Bienvenido de vuelta!",
+  "subtitle": "You are logged in as an administrator.",
+  "labels": {
+    "name": "Full name",
+    "email": "Email address",
+    "role": "User role"
+  },
+  "actions": {
+    "save": "Save changes",
+    "cancel": "Cancel",
+    "cancel-confirmation": "are you sure??"
+  }
 }
